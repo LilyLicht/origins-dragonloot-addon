@@ -1,3 +1,3 @@
 # Origins - DragonLoot Addon
 
-A simple mod to add DragonLoot support to Origins!
+A simple Fabric mod to add DragonLoot support to Origins!
