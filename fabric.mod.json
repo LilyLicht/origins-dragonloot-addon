@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "oridralobylily",
+  "version": "1.0",
+
+  "name": "Origins - DragonLoot Addon",
+  "description": "Origins - DragonLoot Addon",
+  "authors": [
+    "LilyLicht & FinTheCat"
+  ],
+  "contact": {
+    "homepage": "https://github.com/LilyLicht",
+    "sources": "https://github.com/LilyLicht/origins-dragonloot-addon"
+  },
+  "license": "Can be found on my GitHub",
+  "icon": "pack.png",
+
+  "environment": "*",
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "minecraft": ">=1.18-beta.5"
+  }
+}

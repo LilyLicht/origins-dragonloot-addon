@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "dragonloot:dragon_bow",
+    "dragonloot:dragon_crossbow",
+    "dragonloot:dragon_trident"
+  ]
+}
